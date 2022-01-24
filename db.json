@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "Name": "Ramesh",
+      "Date": "25/05/2021",
+      "Purpose of the claim": "Internet",
+      "Amount to be Claimed": 1200,
+      "Status": "PENDING"
+    },
+    {
+      "Name": "ut",
+      "Date": "",
+      "Purpose": "",
+      "Amount": "",
+      "Status": "",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
